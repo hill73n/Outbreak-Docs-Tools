@@ -1,0 +1,778 @@
+David File 1 Voice files
+
+Document created by hill73n
+Document status: completed
+Still to do: list the file sizes and max space reserved.
+
+NETBIO01.DAT -> adxsnd.afs -> vo00104.afs
+
+C4_0000.adx	""You." (weak)
+C4_0001.adx	"You!" (strong)
+C4_0002.adx	"You!" (urgent)
+C4_0003.adx	"Hey there." (weak)
+C4_0004.adx	"Hey there!" (medium)
+C4_0005.adx	"Hey there!" (strong)
+C4_0009.adx	"Hello there." (soft)
+C4_0010.adx	"Hello there!" (medium)
+C4_0011.adx	"Hello there!" (strong)
+C4_0012.adx	"Hey." (soft)
+C4_0013.adx	"Hey!" (medium)
+C4_0014.adx	"Hey!" (strong)
+C4_0015.adx	"Hey you." (soft)
+C4_0016.adx	"Hey You!" (medium)
+C4_0017.adx	"Hey you!" (strong)
+C4_0018.adx	"Excuse me." (soft)
+C4_0019.adx	"Excuse me!" (medium)
+C4_0020.adx	"Excuse me!" (strong)
+
+C4_0026.adx	"Listen to me!" 
+
+C4_0028.adx	"Hello."
+
+C4_0030.adx	"Listen."
+C4_0039.adx	"What are you doing?"
+C4_0040.adx	"What can we do?"
+C4_0041.adx	"Huh uhnn." (clearing throat)
+C4_0043.adx	"Somebody hear me!"
+
+C4_0047.adx	"Anyone?"
+
+C4_0048.adx	"Is someone there?"
+
+C4_0051.adx	"Is...anyone there?"
+
+C4_0057.adx	"Hey. Is someone there?"
+
+C4_0059.adx	"If someone's there, tell me."
+
+C4_0063.adx	"Somebody. Give me a hand."
+C4_0064.adx	"Get in here!"
+C4_0065.adx	"Kevin!"
+C4_0066.adx	"Kevin!"
+C4_0067.adx	"Kevin!"
+C4_0068.adx	"Kevin!"
+C4_0069.adx	"Kevin!"
+C4_0070.adx	"Mark!"
+C4_0071.adx	"Mark!"
+C4_0072.adx	"Mark!"
+C4_0073.adx	"Mark!"
+C4_0074.adx	"Mark!"
+C4_0075.adx	"Jim!"
+C4_0076.adx	"Jim!"
+C4_0077.adx	"Jim!"
+C4_0078.adx	"Jim!"
+C4_0079.adx	"Jim!"
+C4_0080.adx	"You feelin' ok?"
+
+C4_0082.adx	"You alright?"
+
+C4_0084.adx	"You feelin' alright?"
+
+C4_0086.adx	"You ok?"
+
+C4_0090.adx	"What's wrong?"
+C4_0091.adx	"What is it?"
+
+C4_0093.adx	"Hang on!"
+C4_0094.adx	"I'll help you!"
+C4_0095.adx	"Take my hand!"
+C4_0096.adx	"You alright?"
+C4_0097.adx	"George!"
+C4_0098.adx	"George!"
+C4_0099.adx	"George!"
+C4_0100.adx	"Yes."
+C4_0101.adx	"Yes."
+C4_0102.adx	"Yes."
+C4_0103.adx	"Yes."
+C4_0104.adx	"Yes."
+C4_0105.adx	"Yes."
+C4_0106.adx	"Yes."
+C4_0107.adx	"Yes."
+C4_0108.adx	"Yes."
+C4_0109.adx	"Yes."
+C4_0110.adx	"Somebody help!"
+C4_0111.adx	"George!"
+C4_0112.adx	"George!"
+C4_0113.adx	"Help me, damn it!"
+C4_0114.adx	"Help!" 
+C4_0115.adx	"Alyssa!" 
+C4_0116.adx	"Alyssa!"
+C4_0117.adx	"Alyssa!"
+C4_0118.adx	"Alyssa!"
+C4_0119.adx	"Alyssa!"
+
+C4_0123.adx	"I need your help."
+C4_0124.adx	"I need your help!" (urgent)
+C4_0125.adx	"You. Give me a hand!"
+C4_0126.adx	"You...Give me a hand!"
+C4_0127.adx	"Yoko!"
+C4_0128.adx	"Yoko!"
+C4_0129.adx	"Yoko!"
+C4_0130.adx	"Yoko!"
+C4_0131.adx	"Yoko!"
+
+C4_0133.adx	"Somebody?!" (desperate)
+C4_0134.adx	"Cindy!"
+C4_0135.adx	"Cindy!"
+C4_0136.adx	"Cindy!"
+C4_0137.adx	"Cindy!"
+C4_0138.adx	"Cindy!"
+C4_0140.adx	"Yeah."
+C4_0141.adx	"Yeah."
+C4_0142.adx	"Yeah."
+C4_0143.adx	"Yeah."
+C4_0144.adx	"Yeah."
+C4_0145.adx	"Yeah."
+C4_0146.adx	"Yeah."
+C4_0147.adx	"Help me!" (desperate)
+C4_0148.adx	"Yeah."
+C4_0149.adx	"Yeah."
+C4_0150.adx	"Yeah."
+
+C4_0155.adx	"Help us."
+
+C4_0160.adx	"Go!"
+C4_0161.adx	"Go!"
+C4_0162.adx	"Go now!"
+C4_0163.adx	"Go now!"
+C4_0164.adx	"Hurry up!"
+C4_0165.adx	"Hurry up!"
+C4_0166.adx	"We have to go!"
+C4_0167.adx	"We have to go!"
+C4_0168.adx	"Come on!"
+C4_0169.adx	"Come on!"
+C4_0170.adx	"Move!"
+C4_0171.adx	"Move!"
+C4_0172.adx	"Let's go!"
+C4_0173.adx	"Let's go!"
+C4_0174.adx	"Hurry!"
+C4_0175.adx	"Hurry!"
+C4_0176.adx	"Let's hurry!"
+C4_0178.adx	"Move it!"
+
+C4_0185.adx	"Uh huh."
+C4_0186.adx	"Uh huh."
+C4_0187.adx	"Uh huh."
+C4_0188.adx	"Uh huh."
+C4_0189.adx	"Uh huh."
+C4_0190.adx	"Uh huh."
+C4_0191.adx	"Uh huh."
+C4_0192.adx	"Uh huh."
+C4_0193.adx	"Uh huh."
+C4_0194.adx	"Uh huh."
+
+C4_0200.adx	"Find anything?"
+
+C4_0205.adx	"See anyone?"
+C4_0206.adx	"Any progress?"
+
+C4_0211.adx	"Give me something!" (desperate)
+
+C4_0218.adx	"Got information."
+C4_0219.adx	"Got something."
+C4_0220.adx	"Got something strange."
+C4_0221.adx	"Got lots of stuff."
+C4_0222.adx	"Where were you?"
+
+C4_0225.adx	"There's one thing."
+
+C4_0227.adx	"Where's the exit?"
+C4_0228.adx	"This sucks."
+C4_0229.adx	"Whst's going on?"
+C4_0230.adx	"I found a locked door."
+
+C4_0235.adx	"Come on!"
+C4_0236.adx	"Come on!"
+C4_0237.adx	"Here!"
+C4_0238.adx	"Here!"
+C4_0239.adx	"Forget it!"
+C4_0240.adx	"Wait for a minute!"
+C4_0241.adx	"Good."
+C4_0242.adx	"'fraid not."
+C4_0243.adx	"No way."
+C4_0244.adx	"Come 'ere!"
+C4_0245.adx	"Be right there!"
+C4_0246.adx	"Relax!"
+C4_0247.adx	"Sorry!" (slow)
+C4_0248.adx	"Sorry!"
+
+C4_0250.adx	"You're alive!"
+C4_0251.adx	"You're alive!" (stronger)
+C4_0252.adx	"I thought you were dead!"
+
+C4_0255.adx	"No!"
+C4_0256.adx	"No!"
+C4_0257.adx	"No!"
+C4_0258.adx	"No!"
+C4_0259.adx	"No!"
+C4_0260.adx	"No!"
+C4_0261.adx	"No!"
+C4_0262.adx	"No!"
+C4_0263.adx	"No!"
+C4_0264.adx	"No!"
+
+C4_0270.adx	"Now!"
+C4_0271.adx	"Wait!"
+C4_0272.adx	"Wait!"
+C4_0273.adx	"Wait!"
+C4_0274.adx	"Wait!"
+C4_0275.adx	"Wait!"
+C4_0276.adx	"Wait!"
+C4_0277.adx	"Wait!"
+
+C4_0280.adx	"They're here!"
+C4_0281.adx	"Run!"
+C4_0282.adx	"What a surprise!"
+C4_0283.adx	"Shoot now!"
+C4_0284.adx	"Don't know what to do."
+C4_0285.adx	"Never!" (contempt)
+C4_0286.adx	"Never?"
+C4_0287.adx	"Never!" (soft)
+C4_0288.adx	"Never!" (forceful)
+C4_0289.adx	"Never!"
+C4_0290.adx	"Never!"
+C4_0291.adx	"Never!"
+C4_0292.adx	"Never!"
+C4_0293.adx	"Never!"
+
+C4_0300.adx	"Yah."
+C4_0301.adx	"Yes."
+
+C4_0303.adx	"Uh huh."
+C4_0304.adx	"Yeah."
+
+C4_0306.adx	"No!"
+
+C4_0309.adx	"I think so."
+C4_0310.adx	"I think so."
+C4_0311.adx	"You're right."
+C4_0312.adx	"You're right."
+
+C4_0317.adx	"Whatever."
+C4_0318.adx	"Whatever."
+C4_0319.adx	"You should know."
+C4_0320.adx	"You should know."
+C4_0321.adx	"No shit!"
+C4_0322.adx	"No shit!"
+
+C4_0329.adx	"Got it!"
+C4_0330.adx	"Right!"
+C4_0331.adx	"I'm there!"
+C4_0332.adx	"Coming!"
+C4_0333.adx	"Yeah!"
+C4_0334.adx	"I'm fine!"
+
+C4_0338.adx	"Never!"
+C4_0339.adx	"No!"
+C4_0340.adx	"No!" (contempt)
+C4_0341.adx	"Yes."
+C4_0342.adx	"Never!"
+C4_0344.adx	"Nothing."
+C4_0345.adx	"No-one."
+C4_0346.adx	"Nada."
+C4_0347.adx	"No. Nothing."
+C4_0348.adx	"No. I didn't find anything."
+C4_0349.adx	"Don't know."
+C4_0350.adx	"I have no idea."
+C4_0351.adx	"Not sure."
+C4_0352.adx	"Nothing useful."
+C4_0353.adx	"Not so far."
+
+C4_0360.adx	"What do you want?"
+C4_0361.adx	"What do you want?" (stronger)
+C4_0362.adx	"What do you want?" (forceful)
+C4_0363.adx	"What now?"
+C4_0364.adx	"What now?" (stronger)
+C4_0365.adx	"What now?" (forceful)
+C4_0366.adx	"What's up?"
+C4_0367.adx	"What's up?" (stronger)
+C4_0368.adx	"What's up?" (forceful)
+C4_0369.adx	"May I help you?"
+C4_0370.adx	"May I help you?"
+C4_0371.adx	"May I help you?"
+C4_0372.adx	"What?" 
+C4_0373.adx	"What?"
+C4_0374.adx	"What?"
+C4_0375.adx	"Huh?"
+C4_0376.adx	"Huh?"
+C4_0378.adx	"Nng?" (grunt)
+
+C4_0381.adx	"Yes!"
+C4_0382.adx	"Yes!" (stronger)
+C4_0383.adx	"Yes!" (forceful)
+C4_0384.adx	"What happened?"
+C4_0385.adx	"What happened?" (stronger)
+C4_0386.adx	"What happened?" (forceful)
+C4_0387.adx	"Wha's wrong?"
+C4_0388.adx	"Wha's wrong?" (stronger)
+C4_0389.adx	"Wha's wrong?" (forceful)
+C4_0390.adx	"Speak!"
+C4_0392.adx	"Here?"
+C4_0393.adx	"Idiot!"
+C4_0395.adx	"How ya doin'?"
+C4_0396.adx	"You tell me."
+
+C4_0400.adx	"Show me."
+C4_0401.adx	"Like what?"
+C4_0402.adx	"How so?"
+
+C4_0405.adx	"Here."
+C4_0406.adx	"Here. Know anything?"
+C4_0407.adx	"You don't mind if i take that right?"
+C4_0408.adx	"I'll take it."
+C4_0409.adx	"Hey. Give it to me!"
+C4_0410.adx	"I didn't meet any normal human."
+
+C4_0412.adx	"See for yourself."
+C4_0413.adx	"Don't ask me."
+
+C4_0415.adx	"Relax."
+C4_0416.adx	"Can't help you."
+
+C4_0418.adx	"Take a hike."
+
+C4_0421.adx	"You check it."
+
+C4_0424.adx	"No can do."
+
+C4_0426.adx	"Is this relevant?"
+
+C4_0428.adx	"I need that."
+C4_0429.adx	"Give it to me."
+C4_0430.adx	"May I have it?"
+C4_0431.adx	"I could use that."
+C4_0432.adx	"Mind if I take it?"
+C4_0433.adx	"Give it to me."
+
+C4_0435.adx	"Whatever. I'll try to use it anyway."
+C4_0436.adx	"I'll look."
+C4_0437.adx	"If you find it, use it."
+C4_0438.adx	"Forget it! I'll handle it."
+C4_0439.adx	"Use whatever you find."
+C4_0440.adx	"Look around!"
+C4_0441.adx	"Think harder!"
+
+C4_0446.adx	"That's my line."
+
+C4_0448.adx	"Can't die yet."
+
+C4_0451.adx	"Later."
+
+C4_0457.adx	"Thanks for your help."
+
+C4_0463.adx	"Thanks." (grateful)
+
+C4_0465.adx	"You saved me." (grateful)
+
+C4_0467.adx	"Thank you."
+
+C4_0471.adx	"Thank you!"
+C4_0472.adx	"I'm good."
+
+C4_0480.adx	"I feel sick."
+C4_0481.adx	"I feel sick." (desperate)
+C4_0482.adx	"Poisoned..."
+
+C4_0484.adx	"Still...bleeding."
+C4_0485.adx	"Still...bleeding." (desperate)
+
+C4_0487.adx	"It's nothing." (grunt)
+
+C4_0489.adx	"I'll manage." (grunt)
+
+C4_0493.adx	"Leave it alone."
+
+C4_0495.adx	"It'll heal." (grunt)
+C4_0496.adx	"Doesn't look good." (grunt)
+C4_0497.adx	"This is bullshit." (grunt)
+
+C4_0500.adx	"I feel something."
+C4_0501.adx	"I heard a noise."
+
+C4_0503.adx	"Who's there?"
+
+C4_0505.adx	"What the hell?"
+C4_0506.adx	"Jesus!"
+C4_0507.adx	"What's that?"
+C4_0508.adx	"Shit!"
+
+C4_0510.adx	"You want a piece of me?"
+C4_0511.adx	"Let's go!"
+C4_0512.adx	"Piece of shit!"
+
+C4_0514.adx	"See you in hell!"
+
+C4_0516.adx	"Open wide!"
+
+C4_0520.adx	"Is it getting damaged?"
+C4_0521.adx	"It's not over..."
+
+C4_0523.adx	"This ends now!"
+
+C4_0525.adx	"Oh shit! No!"
+C4_0526.adx	"I'm warning you..."
+
+C4_0529.adx	"Get lost!"
+C4_0530.adx	"Stay back!"
+
+C4_0539.adx	"This is bigger than you."
+C4_0540.adx	"This is bigger than you."
+C4_0541.adx	"No end."
+C4_0542.adx	"Time is running out."
+C4_0543.adx	"No. You're not responsible for this."
+
+C4_0546.adx	"Sarcasm is your only friend."
+
+C4_0560.adx	"Where's the key?"
+C4_0561.adx	"We need a key."
+C4_0562.adx	"Must be a key."
+
+C4_0570.adx	"Open the door!"
+
+C4_0575.adx	"Can I help?"
+
+C4_0581.adx	"Freaks!"
+C4_0582.adx	"We better go!"
+
+C4_0584.adx	"Nevermind."
+C4_0585.adx	"It won't open."
+C4_0586.adx	"Is there a way to open this?"
+C4_0587.adx	"Is there another way out?"
+C4_0588.adx	"Gotta get the other side somehow."
+
+C4_0590.adx	"You're on your own."
+
+C4_0592.adx	"I survived."
+
+C4_0596.adx	"Wah..."
+
+C4_0600.adx	"Go!"
+C4_0601.adx	"Go!"
+C4_0602.adx	"Shoot!"
+C4_0603.adx	"Shoot!"
+C4_0604.adx	"Do it!"
+C4_0605.adx	"Do it!"
+C4_0606.adx	"Stop!"
+C4_0607.adx	"Stop!"
+C4_0608.adx	"Stop it!"
+C4_0609.adx	"Stop it!"
+
+C4_0612.adx	"Bring him!"
+C4_0613.adx	"Bring him!'
+C4_0614.adx	"Bring her!
+C4_0615.adx	"Bring her!"
+C4_0616.adx	"Take him with you!"
+C4_0617.adx	"Take him with you!"
+C4_0618.adx	"Take her with you!"
+C4_0619.adx	"Take her with you!"
+C4_0620.adx	"Don't come here!"
+C4_0621.adx	"Don't come here!"
+C4_0622.adx	"Show it to me!"
+C4_0623.adx	"Show it to me!"
+C4_0624.adx	"Break it!"
+C4_0625.adx	"Break it!"
+C4_0626.adx	"Push it!"
+C4_0627.adx	"Push it!"
+C4_0628.adx	"Climb it!"
+C4_0629.adx	"Climb it!"
+C4_0630.adx	"Go down!"
+C4_0631.adx	"Go down!"
+C4_0632.adx	"Jump!"
+C4_0633.adx	"Jump!"
+C4_0634.adx	"Open it!"
+C4_0635.adx	"Open it!"
+C4_0636.adx	"Close it!"
+C4_0637.adx	"Close it!"
+C4_0638.adx	"Jump in!"
+C4_0639.adx	"Jump in!"
+C4_0640.adx	"Get out!"
+C4_0641.adx	"Get out!"
+C4_0642.adx	"Hide!"
+C4_0643.adx	"Hide!"
+C4_0644.adx	"Be quiet!"
+C4_0645.adx	"Be quiet!"
+C4_0646.adx	"Lie down!"
+C4_0647.adx	"Lie down!"
+C4_0648.adx	"Dodge it!"
+C4_0649.adx	"Dodge it!"
+C4_0650.adx	"Look!"
+C4_0651.adx	"Look!"
+C4_0652.adx	"Watch out!"
+C4_0653.adx	"Watch out!"
+C4_0654.adx	"Don't give up!"
+C4_0655.adx	"Don't give up!"
+C4_0656.adx	"Brace yourself!"
+C4_0657.adx	"Brace yourself!"
+C4_0658.adx	"Hold on!"
+C4_0659.adx	"Hold on!"
+C4_0660.adx	"I'll be with you soon!"
+C4_0661.adx	"I'll be with you soon!"
+C4_0662.adx	"Up!"
+C4_0663.adx	"Up!"
+C4_0664.adx	"Up!"
+C4_0665.adx	"Up!"
+C4_0666.adx	"Down!"
+C4_0667.adx	"Down!"
+C4_0668.adx	"Down!"
+C4_0669.adx	"Down!"
+C4_0670.adx	"Right!"
+C4_0671.adx	"Right!"
+C4_0672.adx	"Right!"
+C4_0673.adx	"Right!"
+C4_0674.adx	"Left!"
+C4_0675.adx	"Left!"
+C4_0676.adx	"Left!"
+C4_0677.adx	"Left!"
+C4_0678.adx	"Ahead!"
+C4_0679.adx	"Ahead!"
+C4_0680.adx	"Ahead!"
+C4_0681.adx	"Ahead!"
+C4_0682.adx	"Behind!"
+C4_0683.adx	"Behind!"
+C4_0684.adx	"Behind!"
+C4_0685.adx	"Behind!"
+C4_0686.adx	"There!"
+C4_0687.adx	"There!"
+C4_0690.adx	"Over there!"
+C4_0691.adx	"Over there!"
+C4_0692.adx	"It's him!"
+C4_0693.adx	"It's him!"
+C4_0694.adx	"It's her!"
+C4_0695.adx	"It's her!"
+C4_0696.adx	"It's me!"
+C4_0697.adx	"It's me!"
+C4_0698.adx	"Where?"
+C4_0699.adx	"Where?"
+C4_0700.adx	"Which?"
+C4_0701.adx	"Which?"
+C4_0702.adx	"Which one?"
+C4_0703.adx	"Which one?"
+C4_0704.adx	"Who?"
+C4_0705.adx	"Who?"
+C4_0706.adx	"What?"
+C4_0707.adx	"What?"
+C4_0708.adx	"What?"
+C4_0709.adx	"What?"
+C4_0710.adx	"You want a loop cycle?"
+C4_0711.adx	"I know that."
+C4_0712.adx	"That's right."
+C4_0713.adx	"I agreee."
+C4_0714.adx	"Sure."
+C4_0715.adx	"Maybe."
+C4_0716.adx	"Is that so?"
+C4_0717.adx	"I disagree."
+C4_0718.adx	"I don't think so."
+C4_0719.adx	"Who knows?"
+C4_0720.adx	"That's wrong!"
+
+C4_0722.adx	"Irrelevant."
+C4_0723.adx	"Not gonna happen..."
+C4_0724.adx	"Why is that?"
+C4_0725.adx	"Nothing useful?"
+C4_0726.adx	"Nothing in  particular."
+C4_0727.adx	"No idea."
+C4_0728.adx	"We can't have looked everywhere."
+C4_0729.adx	"Keep looking."
+C4_0720.adx	"What for?"
+C4_0731.adx	"Does it look like it?"
+C4_0732.adx	"How about this?"
+C4_0733.adx	"Don't know if it's useful, but..."
+C4_0734.adx	"This is it."
+C4_0735.adx	"This will help."
+C4_0736.adx	"Excellent."
+C4_0737.adx	"Not bad."
+C4_0738.adx	"We'll see..."
+C4_0739.adx	"Give it to me!"
+C4_0740.adx	"What's this used for?"
+C4_0741.adx	"Won't work."
+C4_0742.adx	"Got anything else?"
+
+C4_0744.adx	"I won't take it now."
+C4_0745.adx	"Give it to me later."
+C4_0746.adx	"You try it."
+C4_0747.adx	"You can keep it."
+C4_0748.adx	"I'll leave it to you."
+C4_0749.adx	"Searched everywhere."
+C4_0750.adx	"It's too early to give up."
+C4_0751.adx	"Do a more thorough search."
+C4_0752.adx	"Maybe you already have something..."
+C4_0753.adx	"Did you check what you have?"
+C4_0754.adx	"After all that time..."
+C4_0755.adx	"So the only place left is..."
+C4_0756.adx	"What about him?"
+C4_0757.adx	"What about her?"
+C4_0758.adx	"The only thing left is..."
+C4_0759.adx	"The only thing left is..."
+C4_0760.adx	"We're not finished yet!"
+C4_0761.adx	"We're not finished yet!"
+C4_0762.adx	"Where is it?"
+C4_0763.adx	"Hmm...I can't find it."
+C4_0764.adx	"You find it?"
+C4_0765.adx	"Yeah. Here."
+C4_0766.adx	"Put it to use."
+C4_0767.adx	"Apparently."
+
+C4_0769.adx	"Hope this will worrk."
+C4_0760.adx	"Not yet."
+
+C4_0773.adx	"Search everywhere."
+C4_0774.adx	"Don't give up. We'll find it."
+C4_0775.adx	"It can't be."
+C4_0776.adx	"Pointless."
+C4_0777.adx	"Found it!"
+C4_0778.adx	"Good!"
+C4_0779.adx	"This must be it!"
+C4_0780.adx	"Found it!"
+C4_0781.adx	"Let's go!"
+C4_0782.adx	"We'd better get going!"
+C4_0783.adx	"Now! Let's hurry!"
+
+C4_0786.adx	"We have no time to waste!"
+
+C4_0788.adx	"There's no time left!"
+C4_0789.adx	"We're all gonna die..."
+C4_0790.adx	"This is gonna be bad..."
+C4_0791.adx	"I don't wanna go there..."
+C4_0792.adx	"There seems to be no choice."
+C4_0793.adx	"Keep your guard up!"
+C4_0794.adx	"Let's get this over with."
+C4_0795.adx	"Beats fixing toilets."
+C4_0796.adx	"Try to stay calm."
+C4_0797.adx	"Don't give up!"
+C4_0798.adx	"You ready?"
+
+C4_0800.adx	"This helps a bit."
+C4_0801.adx	"Better than nothing."
+C4_0802.adx	"I don't want to need this."
+C4_0803.adx	"This will help me."
+C4_0804.adx	"This is good."
+C4_0805.adx	"Back in the game."
+C4_0806.adx	"Got something for ya."
+C4_0807.adx	"No time fo r games."
+C4_0808.adx	"Why?!"
+C4_0809.adx	"Why now?!"
+C4_0810.adx	"This is the last one."
+C4_0811.adx	"It's gonna get rough."
+
+C4_0813.adx	"You look rough."
+C4_0814.adx	"Then help me out."
+C4_0815.adx	"Just give me a hand..."
+C4_0816.adx	"Could you shut up and give me a hand?!"
+C4_0817.adx	"What's that?"
+C4_0818.adx	"Found this a while ago."
+C4_0819.adx	"Got anything for me?"
+C4_0820.adx	"Find your own!"
+C4_0821.adx	"Looks good."
+C4_0822.adx	"I'm not using it by choice."
+C4_0823.adx	"You 're gonna use that?"
+C4_0824.adx	"It's the only way I'll survive."
+C4_0825.adx	"Looks dangerous."
+C4_0826.adx	"This isn't a game."
+C4_0827.adx	"Do you need help?!"
+C4_0828.adx	"Wait there!"
+C4_0829.adx	"I'll be there soon."
+C4_0830.adx	"Let's move this."
+C4_0831.adx	"Can I use this?"
+C4_0832.adx	"This is in the way."
+C4_0833.adx	"Uhh."
+C4_0834.adx	"A little more." (straining to push)
+C4_0835.adx	"Push!"
+C4_0836.adx	"Get over here and help!"
+C4_0837.adx	"Get over here and help!"
+C4_0838.adx	"Hold on to my hand!"
+
+C4_0840.adx	"Here!"
+C4_0841.adx	"Follow me!"
+C4_0842.adx	"This way!"
+C4_0845.adx	"Hmph!"
+C4_0846.adx	"You don't like me."
+C4_0847.adx	"Suit yourself."
+C4_0848.adx	"Wasn't needed."
+C4_0849.adx	"Hmph. Whatever..."
+C4_0850.adx	"Your choice..."
+C4_0854.adx	"Thank you."
+C4_0855.adx	"Huh. Oh."
+C4_0840.adx	"Thanks"
+C4_0858.adx	"Why the sudden change?"
+C4_0859.adx	"Back off!"
+C4_0860.adx	"I'm busy!"
+C4_0861.adx	"Take a look"
+C4_0863.adx	"Look at this"
+C4_0864.adx	"Take this"
+C4_0865.adx	"Huh?"
+C4_0866.adx	"This is what I needed"
+C4_0867.adx	"Huh!?"
+C4_0868.adx	"Put it away!"
+C4_0869.adx	"Don't shoot!"
+C4_0870.adx	"It's me!"
+C4_0872.adx	"You came out of nowhere"
+C4_0873.adx	"I thought you were a zombie"
+C4_0874.adx	"You should be careful"
+C4_0875.adx	"Step aside!"
+C4_0876.adx	"Go away!"
+C4_0877.adx	"Huhh?"
+C4_0878.adx	"Hahh..."
+C4_0879.adx	"Hold on to me!"
+C4_0881.adx	"Stand up!"
+C4_0882.adx	"What's wrong? Get up!"
+C4_0885.adx	"Yeah. Sort of..."
+C4_0886.adx	"Seems so."
+C4_0887.adx	"I'm not good."
+C4_0888.adx	"I'm almost outta time."
+C4_0889.adx	"It's over."
+C4_0890.adx	"Hold on."
+C4_0891.adx	"What are you talking about? I'm fine."
+C4_0892.adx	"You too."
+C4_0893.adx	"Yeah. Thanks."
+C4_0894.adx	"I'm trying."
+C4_0895.adx	"I have to keep going."
+C4_0896.adx	"Guess I'm at the end."
+C4_0890.adx	"We're easy targets 'cause of you."
+C4_0899.adx	"Back off!"
+C4_0900.adx	"You talk too much!"
+C4_0901.adx	"Thank you!"
+C4_0902.adx	"No problem."
+C4_0903.adx	"Likewise."
+C4_0904.adx	"You're a real pain in the ass."
+C4_0905.adx	"Don't thank me. Just move!"
+C4_0906.adx	"I shouldn't need your help."
+C4_0907.adx	"Then stay behind."
+C4_0908.adx	"Shut up and get going!"
+C4_0909.adx	"Yeah. You're a real hero."
+C4_0910.adx	"Enough."
+C4_0911.adx	"Don't do that."
+C4_0912.adx	"Trust me. I don't want to."
+C4_0913.adx	"Now is not the time."
+C4_0914.adx	"Just walk."
+C4_0915.adx	"Huh. Huh. Huh."
+C4_0916.adx	"Huh. Hey. Hey."
+C4_0917.adx	"uhh..hh.." (cold shiver)
+C4_0918.adx	"Hey..."
+C4_0919.adx	"Something's here."
+C4_0921.adx	"What's that sound?"
+C4_0922.adx	"Shhh!"
+C4_0923.adx	"Huhh. A needed rest."
+C4_0927.adx	"Won't work here."
+C4_0928.adx	"Complaining won't change it."
+C4_0930.adx	"Ugh!"
+C4_0931.adx	"Aah!"
+C4_0932.adx	"Huhh!" (pain)
+C4_0936.adx	"Want more?"
+C4_0937.adx	"Here ya go."
+C4_0941.adx	"Get off!" (gritted teeth)
+C4_0942.adx	"No. Damn it!"
+C4_0943.adx	"Damn!"
+C4_0945.adx	"Ah. Shit!"
+C4_0948.adx	"Don't be too sure of yourself."
+C4_0951.adx	"It's not my time to die."
+C4_0953.adx	"Huhh!" (contempt)
+C4_0954.adx	"Huhh!" (contempt)
+C4_0955.adx	"Huh?" (strong)
+C4_0956.adx	"Huh..." (i see)
+C4_0957.adx	"Huh..."
+C4_0958.adx	"Huh?" (weak)
+C4_0959.adx	"Huh huh..." (snigger)
+C4_0960.adx	"Huh." (contempt)
+C4_0961.adx	"Huh?"
+C4_0962.adx	"Huh." (contempt)
+C4_0963.adx	"Huh." (contempt)

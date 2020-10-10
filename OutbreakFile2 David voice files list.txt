@@ -1,0 +1,187 @@
+Biohazard Outbreak File 2
+David voice files = NETBIO01.DAT -> adxsnd.afs -> vo00204.afs
+
+Document created by hill73n
+Document status: incomplete
+To do: list file size and max space reserved.
+
+vo00204.afs	David
+
+C04_000.adx	"Come on!"
+C04_001.adx	"Let's move!it"
+C04_002.adx	"This way! Come on!" 
+C04_003.adx	"Go!"
+C04_004.adx	"Get a move on!"
+C04_005.adx	"Move it!"
+C04_006.adx	"Help!"
+C04_007.adx	"Damn!. Help me!"
+C04_008.adx	"Help! Over here!"
+C04_009.adx	"Thanks."
+C04_010.adx	"Thank you."
+C04_011.adx	"Thanks man."
+C04_012.adx	"Wait!"
+C04_013.adx	"Wait!" (stronger)
+C04_014.adx	"Wait!" (forceful)
+C04_015.adx	"Yeah."
+C04_016.adx	"Yeah."
+C04_017.adx	"Yeah."
+C04_018.adx	"No."
+C04_019.adx	"No!" (forceful)
+C04_020.adx	"No!" (stronger)
+C04_021.adx	"Kevin!"
+C04_022.adx	"Kevin!" (forceful)
+C04_023.adx	"Mark!"
+C04_024.adx	"Mark!" (forceful)
+C04_025.adx	"Jim!"
+C04_026.adx	"Jim!" (forceful)
+C04_027.adx	"George!"
+C04_028.adx	"George!"(forceful)
+C04_029.adx	"Alyssa!"
+C04_030.adx	"Alyssa!"(forceful)
+C04_031.adx	"Yoko!"
+C04_032.adx	"Yoko!"(forceful)
+C04_033.adx	"Cindy!"
+C04_034.adx	"Cindy!"(forceful)
+C04_035.adx	"Sorry."
+C04_036.adx	"Sorry about that."
+C04_037.adx	"Sorry."
+C04_038.adx	"Finish me!"
+C04_039.adx	"Kill me!"
+C04_040.adx	"Finish me off!" (forceful)
+C04_041.adx	"Hey!" (stronger)
+C04_042.adx	"Hey you!"
+C04_043.adx	"Hey!
+C04_044.adx	"Yeah."
+C04_045.adx	"That's right."
+C04_046.adx	"You got it."
+C04_047.adx	"Hmph..."
+C04_048.adx	"I don't know."
+C04_049.adx	"Maybe..."
+C04_050.adx	"Yeah..."
+C04_051.adx	"Right."
+C04_052.adx	"Yep."
+C04_053.adx	"What are you thinking?"
+C04_054.adx	"Knock it off!"
+C04_055.adx	"Quit screwing around!"
+C04_056.adx	"What the hell happened?" (forceful)
+C04_057.adx	"What happened?"
+C04_058.adx	"Are you alright?"
+C04_059.adx	"You ok there?"
+C04_060.adx	"Got it."
+C04_061.adx	"Ok."
+C04_062.adx	"I don't know."
+C04_063.adx	"Couldn't tell ya."
+C04_064.adx	"Hang in there!"
+C04_065.adx	"Hang on!"
+C04_066.adx	"What do I do now?"
+C04_067.adx	"Now what?"
+C04_068.adx	"There!"
+C04_069.adx	"Over there!"
+C04_070.adx	"Why?"
+C04_071.adx	"Why?!"
+C04_072.adx	"Good."
+C04_073.adx	"Nice!"
+C04_074.adx	"This is not a good situation."
+C04_075.adx	"Things aren't looking goood."
+C04_076.adx	"No problem."
+C04_077.adx	"Got it covered."
+C04_078.adx	"What if...?"
+C04_079.adx	"Maybe...?"
+C04_080.adx	"Quiet!"
+C04_081.adx	"Uhhhh..."
+C04_082.adx	"Ahhhh..."
+C04_083.adx	"Son of a bitch!"
+C04_084.adx	"Jesus!"
+C04_085.adx	"Damn it!"
+C04_086.adx	"Hnn hnn hnn." (laughing)
+C04_087.adx	"Hnnn." (laughing)
+C04_088.adx	"Shit!"
+C04_089.adx	"Goddamn..."
+C04_090.adx	"Great..."
+C04_091.adx	(zombie groan)
+C04_092.adx	(zombie groan)
+C04_093.adx	(cough)
+C04_094.adx	(gasp)
+C04_095.adx	(choke)
+C04_096.adx	(gasp)
+C04_097.adx	(gasp)
+C04_098.adx	(gasp)
+C04_099.adx	(gasp)
+C04_100.adx	(scream)
+C04_101.adx	(scream)
+C04_102.adx	"Huh?"
+C04_103.adx	"Hmpf?"
+C04_104.adx	(hyperventillating)
+C04_105.adx	(hyperventillating)
+C04_106.adx	(gasping in pain)
+C04_107.adx	(exhausted heavy breathing)
+C04_108.adx	(exhausted heavy breathing)
+C04_109.adx	(exhausted heavy breathing)
+C04_110.adx	(exhausted heavy breathing)
+C04_111.adx	(exhausted heavy breathing)
+
+C04_120.adx	"Hey." (NPC female 1)
+C04_121.adx	"Mmm hmm." (NPC female 1)
+C04_122.adx	"Hmm." (NPC female 1)
+C04_123.adx	"Yeah." (NPC female 1)
+C04_124.adx	"Hey."  (NPC male 1)
+C04_125.adx	"Mmm hmm." (NPC male 1)
+C04_126.adx	"Hmm." (NPC male 1)
+C04_127.adx	"Yeah." (NPC female 1)
+C04_128.adx	"Hey."  (NPC male 2)
+C04_129.adx	"Mmm hmm." (NPC male 2)
+C04_130.adx	"Hmm." (NPC male 2)
+C04_131.adx	"Yeah." (NPC male 2)
+C04_132.adx	"Hey."  (NPC male 3)
+C04_133.adx	"Mmm hmm." (NPC male 3)
+C04_134.adx	"Hmm." (NPC male 3)
+C04_135.adx	"Yeah." (NPC male 3)
+C04_136.adx	"Hey."  (NPC female 2)
+C04_137.adx	"Mmm hmm." (NPC female 2)
+C04_138.adx	"Hmm." (NPC female 2)
+C04_139.adx	"Yeah." (NPC female 2)
+C04_140.adx	"Hey."  (NPC male 4)
+C04_141.adx	"Mmm hmm." (NPC male 4)
+C04_142.adx	"Hmm." (NPC male 4)
+C04_143.adx	"Yeah." (NPC male 4)
+C04_144.adx	"Hey."  (NPC male 5)
+C04_145.adx	"Mmm hmm." (NPC male 5)
+C04_146.adx	"Hmm." (NPC male 5)
+C04_147.adx	"Yeah." (NPC male 5)
+C04_148.adx	"Hey."  (NPC female 3)
+C04_149.adx	"Mmm hmm." (NPC female 3)
+C04_150.adx	"Hmm." (NPC female 3)
+C04_151.adx	"Yeah." (NPC female 3)
+C04_152.adx	"Mama!" (NPC Lucy? Regan's daughter)
+C04_153.adx	"Ok." (sad - NPC Lucy? Regan's daughter)
+C04_154.adx	"Ok." (confident - Lucy? Regan's daughter)
+C04_155.adx	"Thank you." (NPC Lucy? Regan's daughter)
+
+C04_170.adx	"Come on!" (NPC male 5)
+C04_171.adx	"Come on!" (NPC male 5)
+C04_172.adx	"Go! (NPC male 5)
+C04_173.adx	"Go!" (NPC male 5)
+C04_174.adx	"Help!" (NPC male 5)
+C04_175.adx	"Help!" (NPC male 5)
+C04_176.adx	"Thanks!" (NPC male 5)
+C04_177.adx	"Thanks!" (NPC male 5)
+C04_178.adx	"Wait!" (NPC male 5)
+C04_179.adx	"Wait!" (NPC male 5)
+C04_180.adx	"Yes." (NPC male 5)
+C04_181.adx	"Yes." (NPC male 5)
+C04_182.adx	"No." (NPC male 5)
+C04_183.adx	"No!" (NPC male 5)
+C04_184.adx	"Hey." (NPC male 5)
+C04_185.adx	"Hey." (NPC male 5)
+C04_186.adx	"Hey." (NPC male 5)
+C04_187.adx	"Hey." (NPC male 5)
+C04_188.adx	"Hey." (NPC male 5)
+C04_189.adx	"Hey." (NPC male 5)
+C04_190.adx	"Sorry." (NPC male 5)
+C04_191.adx	"Sorry." (NPC male 5)
+C04_192.adx	"Mmm hmm." (NPC male 5)
+C04_193.adx	"Mmm hmm." (NPC male 5)
+C04_194.adx	"Hmm." (NPC male 5)
+C04_195.adx	"Hmm." (NPC male 5)
+C04_196.adx	"Yeah." (NPC male 5)
+C04_197.adx	"Yeah." (NPC male 5)

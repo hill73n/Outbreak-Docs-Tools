@@ -1,0 +1,49 @@
+Biohazard Outbreak File 2
+
+Sound files
+-Document Status: incomplete
+
+NETBIO01.DAT
+----------
+adxsnd.afs
+----------
+vo00200.afs	Kevin
+vo00201.afs	Mark
+vo00202.afs	Jim
+vo00203.afs	George
+vo00204.afs	David
+vo00205.afs	Alyssa
+vo00206.afs	Yoko
+vo00207.afs	Cindy
+vo00208.afs	NPCs ?
+vo00209.afs	NPCs ?
+
+-------
+bgm.afs
+-------
+select_01.adx
+option.adx
+testbgm02.adx	76	
+lobbytop.adx
+testbgm04.adx	76
+testbgm00.adx	76
+testbgm01.adx	76
+testbgm02.adx	76
+testbgm03.adx	76
+result_01.adx	
+result_02.adx
+file2_01.adx
+testbgm02.adx	76	
+testbgm02.adx	76	
+testbgm03.adx	76	
+stg_00a.adx
+stg_01a.adx
+stg_01b.adx
+...
+
+-----------
+pl00_vo.afs
+-----------
+* These are unused as far as I can tell and are perhaps recordings of the Japanese voice actors or development staff ??
+
+...
