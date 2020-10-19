@@ -1,0 +1,57 @@
+======================================================================================
+Document created by Yoko:S
+Document status: completed
+Still to do: list the file sizes and max space reserved.
+-------------------------------------------------------------------------------------|
+These are listed based on the order they show up on AFSExplorer for future reference.|
+-------------------------------------------------------------------------------------|
+
+s40aircon = Wild Things (Storage room/Show animals' boarding house/Observation Deck)
+
+s40bird_riv = Wild Things (Terrarium Dome)
+
+s40kaze_ki = Wild Things (Streets/Zoo[South Concourse/East Concourse/North Concourse/Elephant Stage/Connection passage/Path to Observation Deck/Stage/Front gate)
+
+s40kaze_ki_wat = Wild Things (Zoo [Lakeside area/Front Gate] Plaza)
+
+s06dact = End of The Road (East Exit/Passage in front of elevator/Maintenance room/
+
+s06aircon = Wild Things, Desperate Times & End of The Road ([Wild Things] = Elephant restaurant - [Desperate Times] = Night-duty room/Autopsy room/Kennel - [End of The Road] = (Reference room/Experimentation chamber/Laser emission room/Observation mezzanine/Mainframe/Special research room/Emergency materials storage/Inside the helicopter/Office building 1F/Office building warehouse/Office building stairwell/)
+
+s06kikai = (?)
+
+s06tonnel = End of The Road (Underground waterworks/Drainage area/North waterway/Old waterway/Tunnel)
+
+s06gesui = End of The Road (Maintenance Passage 3 - [When flooded] Underground waterworks/Drainage Area/North waterway)
+
+s06kaze = End of The Road (Main Street South/Main Street North/Footbridge/Behind the residential area/In front of Apple Inn/Construction Site/Under the highway overpass/Rooftop - Elevated railway)
+
+s15aircon = Desperate Times (Witness interrogation room/
+
+s15kaze = Desperate Times (Emergency stairwell/Rooftop/Police station front entrance)
+
+s15kikai = Desperate Times (Substation room)
+
+s15park = Desperate Times (Underground parking garage/Parking garage ramp)
+
+s10aircon = Underbelly (Subway car/Women's restroom (west)/Men's restroom (west)/Women's restroom (east)/Men's restroom (east)/Women's staff restroom/Men's staff restroom/Break room/Pump Room/Refuse dump/Storage room/Storage room #2)
+
+s26kaze = Flashback (In front of cabin/Hospital back gate/Auxiliary building 3F/Main building rooftop/Room 201/Maintenance access route/Auxilliary building 5F/Auxilliary building rooftop)
+
+s26kaze_wat = Flashback (Suspension bridge/River bank/Big suspension bridge)
+
+s26aircon = Flashback (Cabin/Intensive care unit/Administrator's office)
+
+s26air_kaze = (?)
+
+s10kikai = Underbelly (Emergency power room/Breaker room/Control room)
+
+s10fukinuke = Underbelly (stairwell/Ventillation tower)
+
+s10dact = Underbelly (Underground emergency passage)
+
+s10tonnel = (?)
+
+s20aircon = Training Ground (Wine room)
+
+s20kaze = Training Ground (J's Bar rooftop)

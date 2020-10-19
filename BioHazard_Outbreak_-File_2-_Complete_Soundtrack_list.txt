@@ -1,0 +1,103 @@
+Document created by Yoko:S
+Document status: completed
+Still to do: list the file sizes and max space reserved.
+
+-----------------------------------------------------------------------------------
+    ID  FILE NAME           SCENARIO DESCRIPTION
+------------------------------------------------------------------------------------
+    00  select_01.adx       CHARACTER/SCENARIO SELECT screen
+    01  option.adx          SOUND SETTINGS (OPTIONS sub-menu)
+    02  testbgm02.adx       ----
+    03  lobbytop.adx        Online lobbies
+    04  testbgm04.adx       ----
+    05  testbgm00.adx       ----
+    06  testbgm01.adx       ----
+    07  testbgm02.adx       ----
+    08  testbgm03.adx       ----
+    09  result_01.adx       Final results screen
+    0A  result_02.adx       NETWORK PLAY menu/Final results screen (End of The Road)
+    0B  file2_01.adx        ----
+    0C  testbgm02.adx       ----
+    0D  testbgm02.adx       ----
+    0E  testbgm03.adx       ----
+    0F  stg_00a.adx         J's Bar (Training Ground)
+    10  stg_01a.adx         Office/Inner office (Wild Things)
+    11  stg_01b.adx         Zoo parade BGM (Wild Things [COLLECTIONS menu audio])
+    12  stg_02a.adx         Umbrella Laboratory Complex theme (End of The Road)
+    13  testbgm02.adx       ----
+    14  stg_03a.adx         Apple Inn's Lobby (End of The Road) 
+    15  testbgm02.adx       ----
+    16  stg_04a.adx         (UNUSED)
+    17  testbgm02.adx       ----
+    18  stg_05a.adx         R.P.D. Complex theme (Desperate Times)
+    19  testbgm02.adx       ----
+    1A  stg_06a.adx         Meeting Albert (Flashback [COLLECTIONS menu audio])
+    1B  testbgm02.adx       ----
+    1C  stg_07a.adx         Unknown Woods (Flashback)
+    1D  testbgm02.adx       ----
+    1E  stg_08a.adx         Inside the Hospital (Flashback)
+    1F  testbgm02.adx       ----
+    20  aseri_01.adx        Stalker/Titan theme (Wild Things)
+    21  aseri_02.adx        Tyrant before transforming (End of The Road)
+    22  aseri_03.adx        Tyrant R/Tyrant C theme (End of The Road/Showdown 3)
+    23  aseri_04.adx        Nyx theme (End of The Road)
+    24  aseri_05.adx        Nerve gas theme (Desperate Times)
+    25  aseri_06.adx        Zombie siege (Desperate Times)
+    26  aseri_07.adx        Showdown theme (Showdown 1/2/3)
+    27  aseri_08.adx        (UNKNOWN)
+    28  aseri_09.adx        Gigabyte theme (Underbelly)
+    29  testbgm00.adx       ----
+    2A  aseri_0b.adx        Nursery hunters attack (End of The Road)
+    2B  aseri_0c.adx        (UNUSED)
+    2C  aseri_0d.adx        Elimination theme (Elimination 1/2/3)
+    2D  aseri_0e.adx        (UNUSED)
+    2E  aseri_0f.adx        Tyrant C arrival on helicopter (Showdown 3)
+    2F  hstg_01.adx         Countdown theme (End of The Road)
+    30  hstg_02.adx         Connecting passages (Underbelly/Desperate Times) 
+    31  hstg_03.adx         (UNUSED)
+    32  hstg_04.adx         Sewer Maintenance Passages (End of The Road)             
+    33  hstg_05.adx         Floodgate control room (End of The Road)
+    34  hstg_06.adx         Maintenance Passage tunnel debris (End of The Road)
+    35  hstg_07.adx         Hospital falling apart countdown (Flashback)
+    36  hstg_08.adx         Train depart countdown (Underbelly)
+    37  hstg_09.adx         3 Minutes Left countdown (Elimination 1/2/3)
+    38  testbgm00.adx       ----
+    39  stg_09a.adx         Subway station theme (Underbelly)              
+    3A  stg_09b.adx         (UNUSED)
+    3B  aseri_00.adx        Elephant chase in the zoo (Wild Things)
+    3C  aseri_10.adx        Dorothy, the plant theme (Flashback)
+    3D  testbgm04.adx       ----
+    3E  testbgm00.adx       ----
+    3F  testbgm01.adx       ----
+    40  s40aircon.adx       Air conditioner ambience (Wild Things)             
+    41  s40bird_riv.adx     River ambience (Wild Things)
+    42  s40kaze_ki.adx      Outside ambience (Wild Things)
+    43  s40kaze_ki_wat.adx  Water sounds Outside ambience (Wild Things)             
+    44  s06dact.adx         Spinning Fans ambience (End of The Road)
+    45  s06aircon.adx       Air conditioner ambience (End of The Road)
+    46  s06kikai.adx        Machine sounds ambience (End of The Road)
+    47  s06tonnel.adx       Tunnel sounds ambience (End of The Road)
+    48  s06gesui.adx        Water dripping ambience (End of  The Road)
+    49  s06kaze.adx         Windy Street ambience (End of The Road)
+    4A  s15aircon.adx       Air conditioner ambience (Desperate Times)
+    4B  s15kaze.adx         Outside ambience (Desperate Times)
+    4C  s15kikai.adx        Machine sounds ambience (Desperate Times)
+    4D  s15park.adx         Parking garage ambience (Desperate Times)
+    4E  s10aircon.adx       Air conditioner ambience (Underbelly)
+    4F  s26kaze.adx         Outside ambience (Flashback)
+    50  s26kaze_wat.adx     Waterfall ambience (Flashback)
+    51  s26aircon,adx       Inside Wind sounds ambience (Flashback)
+    52  s26air_kaze.adx     (UNUSED)
+    53  s10kikai.adx        Machine sounds ambience (Underbelly)
+    54  s10fukinuke.adx     Stairwell/Ventillation tower ambience (Underbelly)
+    55  s10dact.adx         Spinning Fans ambience (Underbelly)
+    56  s10tonnel.adx       (UNUSED)
+    57  s20aircon.adx       Air conditioner ambience (Training Ground)
+    58  s20kaze.adx         Outside roam sounds ambience (Training Ground)
+    59  testbgm01.adx       ----
+    5A  testbgm02.adx       ----
+    5B  testbgm03.adx       ----
+    5C  testbgm04.adx       ----
+    5D  testbgm00.adx       ----
+    5E  testbgm01.adx       ----
+    5F  testbgm02.adx       ----

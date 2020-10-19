@@ -1,0 +1,101 @@
+======================================================================================
+Document created by Yoko:S
+Document status: completed
+Still to do: list the file sizes and max space reserved.
+-------------------------------------------------------------------------------------|
+These are listed based on the order they show up on AFSExplorer for future reference.|
+-------------------------------------------------------------------------------------|
+
+
+---[s01env.afs/]
+
+s01kaze1 = Outbreak (In front of J's BAR/Behind the apartment/Slope along the canal/In front of Apple Inn/Behind the residential area/Footbridge)
+
+s01kaze2 = Outbreak (Rooftop)
+
+s01kaze3 = Outbreak (Tunnel)
+
+s01z = Outbreak (Main street)
+
+s01aircon = Outbreak (J's BAR/Women's bathroom/Men's bathroom/Stairs between 1F and 2F/Staff room/Break room/Locker room/Drawing room/Owner's room/Liquor room/Wine room/Stairs between 3F and the rooftop/Storage room/Top floor of the apartment/1F of the apartment)
+
+
+---[s02env.afs/]
+
+s02fire1 = Hellfire (Boiler room/Corridor/Room 202/Lounge stairs/North west passage 1/Room 30*/Owner's room/Room 306/Apple Inn front lobby)
+
+s02fire2 = Hellfire (Apple Inn square/North west passage 3)
+
+s02kaze1 = (?)
+
+s02kikai = (?)
+
+s02aircon = Hellfire (Room 102/Room 103/Room 104/Room 204/Linen room/Security office/North west passage 2/Room 301/Store room/Boiler management office/Room 201/Room 101/Power supply room)
+
+s02aircon2 = (?)
+
+s02kaze2 = (?)
+
+
+---[s28env.afs/]
+
+s28_futu = The Hive (Room 301/3F passway/Room 302/Nurse center/2F passway/Nurse station/Room 202/1F passway/Hall/Central waiting room/Examination room/Treatment room/Locker room/Office/Doctor station/B2F passway/Experiment room/Fixed temperature experiment room/Reposing room/B1F south passway/Waste liquid disposal room)
+
+s28_dact = The Hive (B1F passway)
+
+s28_kikai26 = The Hive (Ev control room)
+
+s28_kaze34 = The Hive (Rooftop)
+
+s28_gesui = The Hive (Underpass entrance)
+
+s28_fire1 = The Hive (Night reception)
+
+
+---[s35env.afs/]
+
+s35tunne1 = (?)
+
+s35kaze24 = Below Freezing Point (Main shaft)
+
+s35kaze26 = Below Freezing Point (Duct)
+
+s35noiz = Below Freezing Point (B6F security center)
+
+s35kaze01 = Below Freezing Point (Underground tunnel)
+
+s35kaze32 = Below Freezing Point (Marshalling yard)
+
+s35awa = Below Freezing Point (B7F experiment room/B4F culture room)
+
+s35futu = Below Freezing Point (B7F east passway/B7F chemical storage/B7F south passway/B7F chemical disposal room/B6F south passway/B6F east passway/B6F break room/B5F passway of area C/B5F emergency passage/B5F passway of area B/B5F computer room/B4F passway of west area/B4F passway of east area/B4F low temperature experimental room)
+
+s35kikai02 = Below Freezing Point (Platform/Lift/B4F turn table)
+
+s35_keikoku = (?)
+
+
+---[s41env.afs/]
+
+s41aircon = Decisions, Decisions (Entrance hall/Waiting room/1F passage A/1F Passage B/Student affairs office/General manager room/2F passage/Drawing room/President room/Art safe room/Study room/1F Passage elevator/B4F corridor/B2F Passage elevator/South car/North car/T-shaped passway/Underground management office/Store room/Air exhaust tower station/Restroom/Shed/Water works administration office/Quality assurance testing room/3F Passage elevator/Experiment preparation room/Experiment room/Machine storage room)
+
+s41dact = Decisions, Decisions (Testing passage A/Air exhaust tower access way/Access way B/Access way A)
+
+s41fukinuke = Decisions, Decisions (Air exhaust tower inside wall/Air exhaust tower lower part/Air exhaust tower elevator/Air exhaust tower B1 level)
+
+s41kaze = Decisions, Decisions (Unloading passage, Front square)
+
+s41kazenami = Decisions, Decisions (Pier)
+
+s41kazenami_s = Decisions, Decisions (Back square)
+
+s41kazewater = Decision, Decisions (Water purifying facility/Underground tunnel/Water tank/East waterway/West waterway)
+
+s41kaze_s = (?)
+
+s41kikai = Decisions, Decisions (Control room/Spare power supply room)
+
+s41tonnel = Decisions, Decisions (Old subway rail siding/Old subway tunnel)
+
+s41tonnel2 = Decisions, Decisions (Access waterway)
+
