@@ -1,0 +1,208 @@
+***************************************
+*Biohazard Outbreak File 2 Disassembly*
+***************************************
+
+Updated 24 December 2019
+------------------------
+
+This is an attempt to document all the game program and data files (structure and contents).
+Any information that others have already discovered can be collected and added to this document (with the respective permission of the contributors, of course).
+
+Hopefully it will make it easier for others to make mods/hacks of this great game ;).
+
+My wish is to be able to play File 1 scenarios with the improved File 2 game mechanics. 
+Would be great to have the character's special items (e.g. George's capsule shooter, Yoko's Charm etc).
+The ability to pick up items when DOWN would be very helpful.
+David's extra knifing combos would be awesome too!
+
+Note: Please use NOTEPAD (or other viewer with equally spaced character font) to view this document otherwise the text alignment may be messed up.
+
+Please let me know if you find any errors... (hill73n@gmail.com or the OBSRV.ORG forums)
+
+And happy hacking ;).
+
+- hill73n :)
+ 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
++============+
+|DVD contents|
++============+
+
++-------------+
+|DVD Directory|
++-------------+
+
+BIN/0.DAT
+    01.DAT
+    1.DAT
+    02.DAT
+    2.DAT
+    03.DAT
+    3.DAT
+    04.DAT
+    4.DAT
+    05.DAT
+    5.DAT
+    6.DAT
+    8.DAT
+    9.DAT
+
+MODULES/NETMOD/AVEPPP.IRX
+	       AVETCP.IRX
+	       AVEWRAPM.IRX
+	       CXTMDM.IRX
+	       LOADHIGH.IRX
+	       OSTMDM_A.IRX
+	       SNAVEPPP.IRX
+	       SNAVETCP.IRX
+	       USBSRCH.IRX
+
+	NETMOD_E/ATERMAS.IRX
+		 ATERMCS.IRX
+		 AVEDHCP.IRX
+		 AVEWRAPE.IRX
+		 DEVGLUE.IRX
+		 LANEGG.IRX
+		 MINIJPS2.IRX
+		 SMAP.IRX
+		 SNAVDHCP.IRX
+		 SNDVGLUE.IRX
+		 SNIOPINT.IRX
+
+	ATAD.IRX
+	DEV9.IRX
+	DNAS280.IMG
+	DRIVE.DAT
+	HDD.IRX
+	NETCNF.IRX
+	NETCNFIF.IRX
+	PFS.IRX
+	SMAP.IRX
+	USBD.IRX
+	USBKB.IRX
+
+NTGUI2/BIN/BG.RGB
+	   EFF.BD
+	   EFF.HD
+	   EUROPEAN.PF
+	   JAPANESE.PF
+	   JIS2UCS.BIN
+	   MESSAGE.TXT
+	   UCS2JIS.BIN
+
+       CONF/JAPANESE/ICON.SYS
+		     SYS_NET.ICO
+
+	    DIAL_SPD.CNF
+	    USBDRVCD.CNF
+
+       MODULES/DEV9.IRX
+	       EZMIDI.IRX
+	       INET.IRX
+	       INETCTL.IRX
+	       IOPRP280.IMG
+	       LANEGG.IRX
+	       LIBSD.IRX
+	       MCMAN.IRX
+	       MCSERV.IRX
+	       MODHSYN.IRX
+	       MODMIDI.IRX
+	       NETCNF.IRX
+	       NETGUI2.IRX
+	       PADMAN.IRX
+	       PPP.IRX
+	       PPPOE.IRX
+	       SDRDRV.IRX
+	       SIO2MAN.IRX
+	       SMAP.IRX
+	       SPDUART.IRX
+	       USBD.IRX
+	       USBINIT.IRX
+	       USBKB.IRX
+	       USBMLOAD.IRX
+
+       YN_FILEJ.BIN
+
+0FLIST.DIR
+CNICON.BIN
+DUMMY.DAT
+GCRES.BIN
+HDDRC.BIN
+MCICON1.BIN
+MCICON2.BIN
+NETBIO00.DAT
+NETBIO01.DAT
+SLPM_656.92
+SYSTEM.CNF
+
+========================================
+
++--------------------------------------+
+|File Content and Structure Description|
++--------------------------------------+
+
+BIN/xx.DAT	<-------I think some SCENARIO DATA?? Maybe some configuration info??
+			(Does not exist on File 1 DVD.) 
+
+----------
+
+MODULES/NETMOD/xxxx.IRX		<-+
+				  |
+MODULES/NETMOD_E/xxxx.IRX	<-+-----All Network related files??
+				  |
+MODULES/xxxx.IRX		<-+
+
+----------
+
+NTGUI2/BIN/BG.RGB	<---The BACKGROUND image??
+
+	   EFF.BD	<---??
+
+	   EFF.HD	<---??
+
+	   EUROPEAN.PF	<---European FONT file??
+
+	   JAPANESE.PF  <---Japanese FONT??
+
+	   JIS2UCS.BIN  <---JIS to UCS FONT convertor??
+
+	   MESSAGE.TXT	<---The TEXT for Language Selection Menu.
+
+	   UCS2JIS.BIN  <---UCS to JIS FONT convertor??
+
+
+NTGUI2/CONF/JAPANESE/ICON.SYS
+		     SYS_NET.ICO
+
+	    DIAL_SPD.CNF	<---Dial-up Config file. Is it used?? 
+
+	    USBDRVCD.CNF	<---USB module auto loader Config file.
+				    DriverPath   "cdrom0:\IOP\MODULES\NETMOD_E\LANEGG.IRX"     
+
+
+       MODULES/DEV9.IRX
+	       EZMIDI.IRX
+	       INET.IRX
+	       INETCTL.IRX
+	       IOPRP280.IMG
+	       LANEGG.IRX
+	       LIBSD.IRX
+	       MCMAN.IRX
+	       MCSERV.IRX
+	       MODHSYN.IRX
+	       MODMIDI.IRX
+	       NETCNF.IRX
+	       NETGUI2.IRX
+	       PADMAN.IRX
+	       PPP.IRX
+	       PPPOE.IRX
+	       SDRDRV.IRX
+	       SIO2MAN.IRX
+	       SMAP.IRX
+	       SPDUART.IRX
+	       USBD.IRX
+	       USBINIT.IRX
+	       USBKB.IRX
+	       USBMLOAD.IRX
+
