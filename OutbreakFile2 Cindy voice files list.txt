@@ -1,0 +1,186 @@
+Biohazard Outbreak File 2
+Cindy voice files = NETBIO01.DAT -> adxsnd.afs -> vo00207.afs
+
+Document created by hill73n
+Document status: incomplete
+To do: complete transcription; list file size and max space reserved.
+
+vo00207.afs	Cindy
+
+C07_000.adx	"Please come this way!"
+C07_001.adx	"This way!!"
+C07_002.adx	"Come this way!" 
+C07_003.adx	"Go!"
+C07_004.adx	"Go!" (forceful)
+C07_005.adx	"Please go!" (stronger)
+C07_006.adx	"Somebody help me!"
+C07_007.adx	"Help!" (forceful)
+C07_008.adx	"Please help me!" (desperate)
+C07_009.adx	"Thanks."
+C07_010.adx	"Thank you."
+C07_011.adx	"Thank you very much."
+C07_012.adx	"Wait!"
+C07_013.adx	"Please wait!" (stronger)
+C07_014.adx	"Wait please!" (forceful)
+C07_015.adx	"Yes."
+C07_016.adx	"Yes." (relieved)
+C07_017.adx	"Yes!" (confident)
+C07_018.adx	"No."
+C07_019.adx	"Sorry. No." (forceful)
+C07_020.adx	"No!" (confident)
+C07_021.adx	"Kevin!"
+C07_022.adx	"Kevin!" (forceful)
+C07_023.adx	"Mark!"
+C07_024.adx	"Mark!" (forceful)
+C07_025.adx	"Jim!"
+C07_026.adx	"Jim!" (forceful)
+C07_027.adx	"George!"
+C07_028.adx	"George!" (forceful)
+C07_029.adx	"David!"
+C07_030.adx	"David!" (forceful)
+C07_031.adx	"Alyssa!"
+C07_032.adx	"Alyssa!" (forceful)
+C07_033.adx	"Yoko!"
+C07_034.adx	"Yoko!" (forceful)
+C07_035.adx	"Sorry."
+C07_036.adx	"I'm sorry."
+C07_037.adx	"I'm so sorry." (apologetic)
+C07_038.adx	"Kill me!"
+C07_039.adx	"Please kill me!"
+C07_040.adx	"Kill me before I..."
+C07_041.adx	"Hey!"
+C07_042.adx	"Hey you!" (forceful)
+C07_043.adx	"Hey! Over there! (stronger)
+C07_044.adx	"Yeah."
+C07_045.adx	"Yes." (confident)
+C07_046.adx	"Mmm hmpf." 
+C07_047.adx	"Well..."
+C07_048.adx	"Ummm..."
+C07_049.adx	"Hmmm..."
+C07_050.adx	"Right."
+C07_051.adx	"That's right."
+C07_052.adx	"Yep."
+C07_053.adx	""
+C07_054.adx	""
+C07_055.adx	""
+C07_056.adx	"" (forceful)
+C07_057.adx	"" (stronger)
+C07_058.adx	""
+C07_059.adx	""
+C07_060.adx	""
+C07_062.adx	""
+C07_063.adx	""
+C07_064.adx	""
+C07_065.adx	""
+C07_066.adx	"" (forceful)
+C07_067.adx	""
+C07_068.adx	""
+C07_069.adx	"
+C07_070.adx	"
+C07_071.adx	"
+C07_072.adx	"
+C07_073.adx	"
+C07_074.adx	"
+C07_075.adx	"
+C07_076.adx	"
+C07_077.adx	"
+C07_078.adx	"
+C07_079.adx	"
+C07_080.adx	"
+C07_081.adx	"
+C07_082.adx	"
+C07_083.adx	"
+C07_084.adx	"
+C07_085.adx	"
+C07_086.adx	"
+C07_087.adx	"
+C07_088.adx	"
+C07_089.adx	"
+C07_090.adx	"
+C07_091.adx	(zombie groan)
+C07_092.adx	(zombie groan)
+C07_093.adx	(cough)
+C07_094.adx	(gasp)
+C07_095.adx	(choke)
+C07_096.adx	(gasp)
+C07_097.adx	(gasp)
+C07_098.adx	(gasp)
+C07_099.adx	(gasp)
+C07_100.adx	(scream)
+C07_101.adx	(scream)
+C07_102.adx	"Huh?"
+C07_103.adx	"Hmpf?"
+C07_104.adx	(hyperventillating)
+C07_105.adx	(hyperventillating)
+C07_106.adx	(gasping in pain)
+C07_107.adx	(exhausted heavy breathing)
+C07_108.adx	(exhausted heavy breathing)
+C07_109.adx	(exhausted heavy breathing)
+C07_110.adx	(exhausted heavy breathing)
+C07_111.adx	(exhausted heavy breathing)
+
+C07_120.adx	"Hey." (NPC female 1)
+C07_121.adx	"Mmm hmm." (NPC female 1)
+C07_122.adx	"Hmm." (NPC female 1)
+C07_123.adx	"Yeah." (NPC female 1)
+C07_124.adx	"Hey."  (NPC male 1)
+C07_125.adx	"Mmm hmm." (NPC male 1)
+C07_126.adx	"Hmm." (NPC male 1)
+C07_127.adx	"Yeah." (NPC female 1)
+C07_128.adx	"Hey."  (NPC male 2)
+C07_129.adx	"Mmm hmm." (NPC male 2)
+C07_130.adx	"Hmm." (NPC male 2)
+C07_131.adx	"Yeah." (NPC male 2)
+C07_132.adx	"Hey."  (NPC male 3)
+C07_133.adx	"Mmm hmm." (NPC male 3)
+C07_134.adx	"Hmm." (NPC male 3)
+C07_135.adx	"Yeah." (NPC male 3)
+C07_136.adx	"Hey."  (NPC female 2)
+C07_137.adx	"Mmm hmm." (NPC female 2)
+C07_138.adx	"Hmm." (NPC female 2)
+C07_139.adx	"Yeah." (NPC female 2)
+C07_140.adx	"Hey."  (NPC male 4)
+C07_141.adx	"Mmm hmm." (NPC male 4)
+C07_142.adx	"Hmm." (NPC male 4)
+C07_143.adx	"Yeah." (NPC male 4)
+C07_144.adx	"Hey."  (NPC male 5)
+C07_145.adx	"Mmm hmm." (NPC male 5)
+C07_146.adx	"Hmm." (NPC male 5)
+C07_147.adx	"Yeah." (NPC male 5)
+C07_148.adx	"Hey."  (NPC female 3)
+C07_149.adx	"Mmm hmm." (NPC female 3)
+C07_150.adx	"Hmm." (NPC female 3)
+C07_151.adx	"Yeah." (NPC female 3)
+C07_152.adx	"Mama!" (NPC Lucy? Regan's daughter)
+C07_153.adx	"Ok." (sad - NPC Lucy? Regan's daughter)
+C07_154.adx	"Ok." (confident - Lucy? Regan's daughter)
+C07_155.adx	"Thank you." (NPC Lucy? Regan's daughter)
+
+C07_170.adx	"Come on!" (NPC female 3)
+C07_171.adx	"Come on!" (NPC female 3)
+C07_172.adx	"Go! (NPC female 3(
+C07_173.adx	"Go!" (NPC female 3)
+C07_174.adx	"Help!" (NPC female 3)
+C07_175.adx	"Help!" (NPC female 3)
+C07_176.adx	"Thanks!" (NPC female 3)
+C07_177.adx	"Thanks!" (NPC female 3)
+C07_178.adx	"Wait!" (NPC female 3)
+C07_179.adx	"Wait!" (NPC female 3)
+C07_180.adx	"Yes." (NPC female 3)
+C07_181.adx	"Yes." (NPC female 3)
+C07_182.adx	"No." (NPC female 3)
+C07_183.adx	"No!" (NPC female 3)
+C07_184.adx	"Hey." (NPC female 3)
+C07_185.adx	"Hey." (NPC female 3)
+C07_186.adx	"Hey." (NPC female 3)
+C07_187.adx	"Hey." (NPC female 3)
+C07_188.adx	"Hey." (NPC female 3)
+C07_189.adx	"Hey." (NPC female 3)
+C07_190.adx	"Sorry." (NPC female 3)
+C07_191.adx	"Sorry." (NPC female 3)
+C07_192.adx	"Mmm hmm." (NPC female 3)
+C07_193.adx	"Mmm hmm." (NPC female 3)
+C07_194.adx	"Hmm." (NPC female 3)
+C07_195.adx	"Hmm." (NPC female 3)
+C07_196.adx	"Yeah." (NPC female 3)
+C07_197.adx	"Yeah." (NPC female 3)

@@ -1,0 +1,189 @@
+Biohazard Outbreak File 2
+Alyssa voice files = NETBIO01.DAT -> adxsnd.afs -> vo00205.afs
+
+Document created by hill73n
+Document status: incomplete
+To do: complete transcription; list file size and max space reserved.
+
+vo00205.afs	Alyssa
+
+Name		Transcription					Length	Max Size
+
+C05_000.adx	"Come ony!"					6498	8192
+C05_001.adx	"Over here!"					8136	8192
+C05_002.adx	"This way!" 					6822	8192
+C05_003.adx	"Go!"						3582	4096
+C05_004.adx	"Go!" (forceful)				5800	6144
+C05_005.adx	"Move!" (stronger)				7028	8192
+C05_006.adx	"Help!"						8100	8192
+C05_007.adx	"Help me!" (forceful)				10296	12288
+C05_008.adx	"Please help me!" (desperate)			11538	12288
+C05_009.adx	"Thanks."					7038	8192
+C05_010.adx	"Thank you."					7452	8192
+C05_011.adx	"Thanks a lot."					11646	12288
+C05_012.adx	"Wait a sec!"					9882	10240
+C05_013.adx	"Hold on!" (stronger)				8226	10240
+C05_014.adx	"Wait up!" (forceful)				8388	10240
+C05_015.adx	"Yes."						7542	8192
+C05_016.adx	"Yes." (relieved)				6606	8192
+C05_017.adx	"Yes!" (confident)				5830	6144
+C05_018.adx	"No."						4536	6144
+C05_019.adx	"No!" (forceful)				7542	8192
+C05_020.adx	"I don't think so!" (confident)			11772	12288
+C05_021.adx	"Kevin!"					5634	6144
+C05_022.adx	"Kevin!" (forceful)				10746	12288
+C05_023.adx	"Mark!"						5634	6144
+C05_024.adx	"Mark!" (forceful)				
+C05_025.adx	"Jim!"						
+C05_026.adx	"Jim!" (forceful)				
+C05_027.adx	"George!"					
+C05_028.adx	"George!" (forceful)				
+C05_029.adx	"David!"					
+C05_030.adx	"David!" (forceful)				
+C05_031.adx	"Yoko!"						
+C05_032.adx	"Yoko!" (forceful)				
+C05_033.adx	"Cindy!"					
+C05_034.adx	"Cindy!" (forceful)				
+C05_035.adx	"Sorry."					
+C05_036.adx	"Sorry about that."				
+C05_037.adx	"I'm sorry." (apologetic)			
+C05_038.adx	"Please kill me!"				
+C05_039.adx	"Kill me!"					
+C05_040.adx	"Kill me please!"				
+C05_041.adx	"Hey!"						
+C05_042.adx	"Hey you!" (forceful)				
+C05_043.adx	"Hey! Over there! (stronger)			
+C05_044.adx	"Yeah."						
+C05_045.adx	"Uh huh." (confident)				
+C05_046.adx	"Mmm hmpf." 					
+C05_047.adx	"Hmmm..."					
+C05_048.adx	"Let me think..."				
+C05_049.adx	"Let me see..."					
+C05_050.adx	"Yep."						
+C05_051.adx	"I agree."					
+C05_052.adx	"I guess so." (tired)				
+C05_053.adx	"What are you? Stupid?"				
+C05_054.adx	"Don't be a moron!"				
+C05_055.adx	"?"
+C05_056.adx	"?" (forceful)
+C05_057.adx	"?" (stronger)
+C05_058.adx	"?"
+C05_059.adx	""
+C05_060.adx	""
+C02_060.adx	""
+C05_062.adx	""
+C05_063.adx	""
+C05_064.adx	""
+C05_065.adx	""
+C05_066.adx	"" (forceful)
+C05_067.adx	""
+C05_068.adx	""
+C05_069.adx	"
+C05_070.adx	"
+C05_071.adx	"
+C05_072.adx	"
+C05_073.adx	"
+C05_074.adx	"
+C05_075.adx	"
+C05_076.adx	"
+C05_077.adx	"
+C05_078.adx	"
+C05_079.adx	"
+C05_080.adx	"
+C05_081.adx	"
+C05_082.adx	"
+C05_083.adx	"
+C05_084.adx	"
+C05_085.adx	"
+C05_086.adx	"
+C05_087.adx	"
+C05_088.adx	"
+C05_089.adx	"
+C05_090.adx	"
+C05_091.adx	(zombie groan)					
+C05_092.adx	(zombie groan)					
+C05_093.adx	(cough)						
+C05_094.adx	(gasp)						
+C05_095.adx	(choke)						
+C05_096.adx	(gasp)						
+C05_097.adx	(gasp)						
+C05_098.adx	(gasp)
+C05_099.adx	(gasp)						
+C05_100.adx	(scream)					
+C05_101.adx	(scream)
+C05_102.adx	"Huh?"						
+C05_103.adx	"Hmpf?"						
+C05_104.adx	(hyperventillating)				
+C05_105.adx	(hyperventillating)				
+C05_106.adx	(gasping in pain)				
+C05_107.adx	(exhausted heavy breathing)			
+C05_108.adx	(exhausted heavy breathing)			
+C05_109.adx	(exhausted heavy breathing)			
+C05_110.adx	(exhausted heavy breathing)			
+C05_111.adx	(exhausted heavy breathing)			
+
+C05_120.adx	"Hey." (NPC female 1)				
+C05_121.adx	"Mmm hmm." (NPC female 1)			
+C05_122.adx	"Hmm." (NPC female 1)				
+C05_123.adx	"Yeah." (NPC female 1)				
+C05_124.adx	"Hey."  (NPC male 1)				
+C05_125.adx	"Mmm hmm." (NPC male 1)				
+C05_126.adx	"Hmm." (NPC male 1)				
+C05_127.adx	"Yeah." (NPC female 1)				
+C05_128.adx	"Hey."  (NPC male 2)				
+C05_129.adx	"Mmm hmm." (NPC male 2)				
+C05_130.adx	"Hmm." (NPC male 2)				
+C05_131.adx	"Yeah." (NPC male 2)				
+C05_132.adx	"Hey."  (NPC male 3)				
+C05_133.adx	"Mmm hmm." (NPC male 3)				
+C05_134.adx	"Hmm." (NPC male 3)				
+C05_135.adx	"Yeah." (NPC male 3)				
+C05_136.adx	"Hey."  (NPC female 2)				
+C05_137.adx	"Mmm hmm." (NPC female 2)			
+C05_138.adx	"Hmm." (NPC female 2)				
+C05_139.adx	"Yeah." (NPC female 2)				
+C05_140.adx	"Hey."  (NPC male 4)				
+C05_141.adx	"Mmm hmm." (NPC male 4)				
+C05_142.adx	"Hmm." (NPC male 4)				
+C05_143.adx	"Yeah." (NPC male 4)				
+C05_144.adx	"Hey."  (NPC male 5)				
+C05_145.adx	"Mmm hmm." (NPC male 5)				
+C05_146.adx	"Hmm." (NPC male 5)				
+C05_147.adx	"Yeah." (NPC male 5)				
+C05_148.adx	"Hey."  (NPC female 3)				
+C05_149.adx	"Mmm hmm." (NPC female 3)			
+C05_150.adx	"Hmm." (NPC female 3)				
+C05_151.adx	"Yeah." (NPC female 3)				
+C05_152.adx	"Mama!" (NPC Lucy? Regan's daughter)		
+C05_153.adx	"Ok." (sad - NPC Lucy? Regan's daughter)	
+C05_154.adx	"Ok." (confident - Lucy? Regan's daughter)	
+C05_155.adx	"Thank you." (NPC Lucy? Regan's daughter)	
+
+C05_170.adx	"Come on!" (NPC female 1)			
+C05_171.adx	"Come on!" (NPC female 1)			
+C05_172.adx	"Go! (NPC female 1)				
+C05_173.adx	"Go!" (NPC female 1)				
+C05_174.adx	"Help!" (NPC female 1)				
+C05_175.adx	"Help!" (NPC female 1)				
+C05_176.adx	"Thanks!" (NPC female 1)			
+C05_177.adx	"Thanks!" (NPC female 1)			
+C05_178.adx	"Wait!" (NPC female 1)				
+C05_179.adx	"Wait!" (NPC female 1)				
+C05_180.adx	"Yes." (NPC female 1)				
+C05_181.adx	"Yes." (NPC female 1)				
+C05_182.adx	"No." (NPC female 1)				
+C05_183.adx	"No!" (NPC female 1)				
+C05_184.adx	"Hey." (NPC female 1)				
+C05_185.adx	"Hey." (NPC female 1)				
+C05_186.adx	"Hey." (NPC female 1)				
+C05_187.adx	"Hey." (NPC female 1)				
+C05_188.adx	"Hey." (NPC female 1)				
+C05_189.adx	"Hey." (NPC female 1)				
+C05_190.adx	"Sorry." (NPC female 1)				
+C05_191.adx	"Sorry." (NPC female 1)				
+C05_192.adx	"Mmm hmm." (NPC female 1)			
+C05_193.adx	"Mmm hmm." (NPC female 1)			
+C05_194.adx	"Hmm." (NPC female 1)				
+C05_195.adx	"Hmm." (NPC female 1)				
+C05_196.adx	"Yeah." (NPC female 1)				
+C05_197.adx	"Yeah." (NPC female 1)				
