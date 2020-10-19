@@ -1,0 +1,22 @@
+
+Outbreak File 1 and 2 scenarios
+
+r001.afs = OB (Outbreak)
+r002.afs = HF (Hellfire)
+r006.afs = EOTR (End Of The Road)
+r010.afs = UB (Underbelly)
+r015.afs = DT (Desperate Times)
+r026.afs = FB (Flashback)
+r028.afs = TH (The Hive)
+r035.afs = BFP (Below Freezing Point)
+r040.afs = WT (Wild Things)
+r041.afs = DD (Decisions Decisions)
+
+
+r020.afs TG (Training Ground)
+r021.afs E1 (Elimination 1)
+r022.afs E2 (Elimination 2)
+r023.afs E3 (Elimination 3)
+r027.afs SD1 (Showdown 1)
+r029.afs SD2 (Showdown 2)
+r030.afs SD3 (Showdown 3)
